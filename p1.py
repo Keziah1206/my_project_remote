@@ -1,3 +1,3 @@
 print("cat")
-print("cow")
+print("hi")
 print("lion")
